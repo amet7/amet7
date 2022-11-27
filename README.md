@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/picobricks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="picobricks" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sametsulun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sametsulun" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/robotistaninc.9757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robotistan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@robotistaninc.9757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robotistan" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/picobricks" target="blank"><img src="https://img.shields.io/twitter/follow/picobricks?logo=twitter&style=for-the-badge" alt="picobricks" /></a> </p>
 
